@@ -21,3 +21,6 @@ TFRegNCI_para.pkl: TFRegNCI parameters
 TFRegNCI-3D_para.pkl: TFRegNCI-3D parameters
 
 ## Environment
+
+* Python: 3.7
+* Platform: pytorch 1.10
