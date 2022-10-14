@@ -2,7 +2,9 @@
 
 ## Introduction
 
-TFRegNCI is a tool for predicting Non-covalent interaction(NCI), which mainly use RegNet and MLP. Because of the electron density can be location the meaningful region by Grad RAM, We combine the TFRegNCI-3D and Grad RAM to available the Interpretability model for visualize the important features in 3D feature space.
+TFRegNCI is a tool for predicting Non-covalent interaction(NCI). This program package includes NCI prediction models, 2D (TFRegNCI) and 3D (TFRegNCI_3D), and a visualization module, Grad RAM, for feature visual analyses. The corresponding codes for utility are as follows.
+
+## Programs and Files:
 
 1.TFRegNCI: A 2D multimodal correction model.
 - TFRegNCI.py: main running file.
