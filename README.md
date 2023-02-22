@@ -29,12 +29,6 @@ TFRegNCI is a tool for predicting Non-covalent interaction(NCI). This program pa
 ## Citation
 If you find the code useful in your research, please consider citing:
 
-	@inproceedings{huang2017densely,
-	  title={Densely Connected Convolutional Networks},
-	  author={Huang, Gao and Liu, Zhuang and van der Maaten, Laurens and Weinberger, Kilian Q },
-	  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-	  year={2017}
-	}
 	@article{wang2023tfregnci,
     	title={TFRegNCI: Interpretable Noncovalent Interaction Correction Multimodal Based on Transformer Encoder Fusion},
     	author={Wang, Donghan and Li, Wenze and Dong, Xu and Li, Hongzhi and Hu, LiHong},
