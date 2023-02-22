@@ -35,5 +35,5 @@ If you find the code useful in your research, please consider citing:
     journal={Journal of Chemical Information and Modeling},
     year={2023},
     publisher={ACS Publications}
-  }
+  	}
 	
