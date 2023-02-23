@@ -27,7 +27,7 @@ TFRegNCI is a tool for predicting Non-covalent interaction(NCI). This program pa
 * Platform: pytorch 1.10
 
 ## Citation
-If you find the code useful in your research, please consider citing:
+If you think the method useful in your research, please consider citing:
 
 	@article{wang2023tfregnci,
      title={TFRegNCI: Interpretable Noncovalent Interaction Correction Multimodal Based on Transformer Encoder Fusion},
